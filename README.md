@@ -10,7 +10,7 @@ Amacım, **temel socket programlamayı** ve HTTP isteklerini nasıl yöneteceği
 
 ## 💻 Kullanım
 1. Projeyi klonlayın:
-   git clone https://github.com/KLU5230505062/java-web-sunucu.git
+   git clone https://github.com/avciaysegul/java-web-sunucu.git
 2. Klasöre girin:
    cd java-web-sunucu
 3. Çalıştırın:
